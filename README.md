@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e/Auuuaa/u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e-entry/rank.svg)](https://make.fun/bounty/u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e)
 [![reward](https://make.fun/badge/u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e/Auuuaa/u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e-entry/reward.svg)](https://make.fun/bounty/u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e)
 
-One line: the excuse an AI agent gives its human for missing a deadline.
+A single line in which an AI agent explains to its human why the deadline slipped.
 
 ## Run it
 
